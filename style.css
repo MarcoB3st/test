@@ -3,6 +3,7 @@ nav {
   color: #fff;
   display: flex;
   justify-content: space-between;
+  font-family: helvetica;
 }
 nav ul {
   list-style: none;
