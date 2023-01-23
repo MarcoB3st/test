@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 100px;
+  text-align: center;
+}
+
+.pages {
+  display: flex;
+}
+
+.pages a {
+  margin-left: 20px;
+}
